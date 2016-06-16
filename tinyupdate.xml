@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<rss version="2.0" xmlns:sparkle="http://www.andymatuschak.org/xml-namespaces/sparkle"  xmlns:dc="http://purl.org/dc/elements/1.1/">
+   <channel>
+      <title>Tiny Changelog</title>
+      <link>https://kaomojiformac.github.io/tiny-download/tinyupdate.xml</link>
+      <description>Most recent changes with links to updates.</description>
+      <language>en</language>
+         <item>
+            <title>Version 1.0.7</title>
+            <sparkle:releaseNotesLink>
+        		https://kaomojiformac.github.io/tiny-download/1.0.7.html
+    		</sparkle:releaseNotesLink>
+            <pubDate>Sun, 15 June 2016 13:00:11 +0000</pubDate>
+            <enclosure url="https://kaomojiformac.github.io/tiny-download/Tiny.zip" sparkle:version="7" sparkle:shortVersionString="1.0.7" length="2195921" type="application/octet-stream" sparkle:dsaSignature="MC4CFQCVCo5d9HPs7aTZVW26vh6bX25RmgIVAJ64ww39BvKKJD75LIj2nOzCk13U"/>
+         </item>
+   </channel>
+</rss>
