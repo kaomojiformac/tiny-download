@@ -11,7 +11,7 @@
         		https://kaomojiformac.github.io/tiny-download/1.0.7.html
     		</sparkle:releaseNotesLink>
             <pubDate>Sun, 15 June 2016 13:00:11 +0000</pubDate>
-            <enclosure url="https://kaomojiformac.github.io/tiny-download/Tiny.zip" sparkle:version="7" sparkle:shortVersionString="1.0.7" length="2195921" type="application/octet-stream" sparkle:dsaSignature="MC4CFQCVCo5d9HPs7aTZVW26vh6bX25RmgIVAJ64ww39BvKKJD75LIj2nOzCk13U"/>
+            <enclosure url="https://kaomojiformac.github.io/tiny-download/Tiny.zip" sparkle:version="7" sparkle:shortVersionString="1.0.7" length="1814854" type="application/octet-stream" sparkle:dsaSignature="MC0CFAsWan7PS2a3HnwaCbLiax8gXq3QAhUAmW7g8IGo2iWOYTTEwrjzZSe3GpM="/>
          </item>
    </channel>
 </rss>
