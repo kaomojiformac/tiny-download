@@ -6,12 +6,12 @@
       <description>Most recent changes with links to updates.</description>
       <language>en</language>
          <item>
-            <title>Version 1.0.7</title>
+            <title>Version 1.0.8</title>
             <sparkle:releaseNotesLink>
-        		https://kaomojiformac.github.io/tiny-download/1.0.7.html
+        		https://kaomojiformac.github.io/tiny-download/1.0.8.html
     		</sparkle:releaseNotesLink>
-            <pubDate>Sun, 15 June 2016 13:00:11 +0000</pubDate>
-            <enclosure url="https://kaomojiformac.github.io/tiny-download/Tiny.zip" sparkle:version="7" sparkle:shortVersionString="1.0.7" length="1814854" type="application/octet-stream" sparkle:dsaSignature="MC0CFAsWan7PS2a3HnwaCbLiax8gXq3QAhUAmW7g8IGo2iWOYTTEwrjzZSe3GpM="/>
+            <pubDate>Fri, 13 Jan 2017 23:35:11 +0100</pubDate>
+            <enclosure url="https://kaomojiformac.github.io/tiny-download/Tiny.zip" sparkle:version="8" sparkle:shortVersionString="1.0.8" length="1731937" type="application/octet-stream" sparkle:dsaSignature="MCwCFFIPYVCjNqOa1ODsUYQQVLnQj+nwAhRfI8xXuRekWNpnkUiksLsaz6IXZA=="/>
          </item>
    </channel>
 </rss>
